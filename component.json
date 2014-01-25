@@ -1,0 +1,20 @@
+{
+  "name": "states",
+  "repo": "entity/states",
+  "author": "stagas",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "hierarchical object states",
+  "keywords": [
+    "hierarchical",
+    "state",
+    "object"
+  ],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "yields/merge": "*"
+  }
+}
