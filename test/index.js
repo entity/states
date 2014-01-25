@@ -29,4 +29,7 @@ assert('such world, wow' === entity.speak());
 entity.pop();
 assert('hello, world' === entity.speak());
 
+entity.pop();
+assert('hello, world' === entity.speak());
+
 console.log('done');
